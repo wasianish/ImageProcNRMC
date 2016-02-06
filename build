@@ -1,0 +1,2 @@
+g++ ~/Projects/CWRUbotix/test.cpp -o ~/Projects/CWRUbotix/test.out -lopencv_core -lopencv_highgui -lopencv_videoio -lopencv_imgproc -lopencv_imgcodecs
+~/Projects/CWRUbotix/test.o
